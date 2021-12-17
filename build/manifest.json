@@ -1,0 +1,8 @@
+{
+  "short_name": "Vibes",
+  "name": "Vibes | The music destination you want.",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

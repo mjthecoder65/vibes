@@ -1,0 +1,15 @@
+.mob-top-navigation {
+  height: 10vh;
+  display: flex;
+  flex-flow: row;
+  background-color: #0f1e36;
+  border: none;
+}
+
+@media only screen and (max-height: 610px) {
+  .mob-top-navigation {
+    height: 10vh;
+    display: flex;
+    flex-flow: row;
+  }
+}
