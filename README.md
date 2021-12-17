@@ -1,3 +1,3 @@
 # vibes
 
-<img src="home.png" alt="homepage">
+<img src="homepage.png" alt="homepage">
