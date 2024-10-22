@@ -1,2 +1,3 @@
-# vibes - Music streaming web app
+# Vibes 
+Music streaming Application 
 <img src="homepage.png" alt="homepage">
